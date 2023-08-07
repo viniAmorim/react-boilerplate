@@ -1,0 +1,47 @@
+{
+  "colors": {
+    "purple700": "#40297E",
+    "purple900": "#33245C",
+    "purple950":"rgb(51, 36, 92, .6)",
+
+    "pink400": "#FF4870",
+    "pink500": "#FF325E",
+
+    "red100": "#FFEAED",
+    "red500": "#E42A49",
+
+    "green100": "#D2FFE5",
+    "green500": "#04D361",
+    "green700": "#219653",
+
+    "yellow100": "#FFF4D2",
+    "yellow500": "#C56611",
+
+    "white": "#FFFFFF",
+    "white100": "#FAFAFA",
+
+    "grey100": "#D6D6D6",
+    "grey500": "#767676",
+
+    "black600": "#191919",             
+    "black700": "#1A1A1A",
+    "black900": "#000000"
+},
+
+    "typography": {
+        "title": {
+            "font-family": "Montserrat",
+            "font-style": "normal",
+            "font-weight": 700,
+            "font-size": "32px",
+            "line-height": "42px"
+        },
+        "button": {
+            "font-family": "Montserrat",
+            "font-style": "normal",
+            "font-weight": 700,
+            "font-size": "14px",
+            "line-height": "17px"
+        }
+    }
+}

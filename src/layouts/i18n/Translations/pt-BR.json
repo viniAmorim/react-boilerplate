@@ -1,0 +1,11 @@
+{
+  "translation": {
+    "__Generic__": "Valores genéricos",
+    "required.field.error": "Este campo é obrigatório",
+    "invalid.field.cnpj": "Insira um CNPJ válido",
+    "invalid.field.email": "Insira um e-mail válido",
+    "cancel.button": "Cancelar",
+    "save.button": "Salvar"
+    
+  }
+}
