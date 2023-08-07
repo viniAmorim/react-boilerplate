@@ -8,7 +8,6 @@ function LoginPage() {
   return (
     <Styled.Container>
       <Stack>
-        <Styled.Image src={logoPurple} />
         <Text fontColor="purple700">Login</Text>
       </Stack>
     </Styled.Container>
